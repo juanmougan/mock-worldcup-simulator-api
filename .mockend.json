@@ -1,10 +1,6 @@
 {
   "Group": {
     "name": "string",
-    "teams": "Team[]"
-  },
-  "Team": {
-    "name": "string",
-    "is_principal": "boolean"
+    "teams": "string[]"
   }
 }
