@@ -1,7 +1,7 @@
 {
   "Group": {
     "name": { "string": {} },
-    "teams": { "Team": [] }
+    "teams": { "hasMany": "Team" }
   },
   "Team": {
     "name": { "string": {} },
