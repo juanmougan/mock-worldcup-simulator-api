@@ -7,5 +7,4 @@
     "name": { "string": {} },
     "is_principal": { "boolean": {} }
   }
-  "Post": {    "title": { "string": {} },    "comments": {      "hasMany": "Comment"    }  },
 }
